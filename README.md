@@ -1,4 +1,4 @@
-# Python Mini Projects Collection
+# Python Projects Collection
 
 ## Overview
 This repository contains a collection of **Python mini projects and utility applications** built for practice and learning core programming concepts.
